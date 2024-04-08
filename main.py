@@ -1,9 +1,4 @@
-"""
-本代码由[Tkinter布局助手]生成
-当前版本:3.0.1
-官网:https://www.pytk.net/tkinter-helper
-QQ交流群:788392508
-"""
+
 from tkinter import *
 from tkinter.ttk import *
 from Data_capture import Weather
